@@ -1,6 +1,6 @@
-CREATE TABLE Raipur
+CREATE TABLE Country1
 (
-Studentname varchar(255),
-Studentrollno int,
-Studentage int
+Sno int,
+Countryid int,
+Countryname varchar(255)
 );
