@@ -1,0 +1,4 @@
+SET SQL_SAFE_UPDATES=0;
+UPDATE STUDENT12
+SET Studentname ='Rahul'
+WHERE Studentage =12;

@@ -1,0 +1,1 @@
+SELECT * FROM pooja.student12;

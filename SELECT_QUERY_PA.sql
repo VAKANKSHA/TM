@@ -1,0 +1,1 @@
+SELECT Studentname,studentheight FROM STUDENT12;
